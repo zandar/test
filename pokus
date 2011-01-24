@@ -1,3 +1,8 @@
-Pokus
-
-Toto je pokusny soubor a jsem zvedav jak se zmerguje s tim z jine vetve :)
+class HiWorld
+  def self.hello
+      puts "Hello World"
+        end
+        end
+        
+        HelloWorld.hello
+        
